@@ -1,0 +1,22 @@
+# Build outputs
+dist/
+build/
+*.spec
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs and editors
+.env
+.venv/
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# User config (left in repo by default) - change if you prefer to ignore packaged config
+# config_gui.json

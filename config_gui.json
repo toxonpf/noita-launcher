@@ -1,0 +1,10 @@
+{
+  "noita_save_path": "C:/Users/toxon/AppData/LocalLow/Nolla_Games_Noita/save00",
+  "noita_exe_path": "C:/Program Files (x86)/Steam/steamapps/common/Noita/noita.exe",
+  "saves_dir": "saves",
+  "save_name_format": "%Y-%m-%d_%H-%M-%S",
+  "theme": "dark",
+  "confirm_on_delete": true,
+  "auto_backup_on_run": false,
+  "max_backups": 0
+}

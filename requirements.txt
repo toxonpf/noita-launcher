@@ -1,0 +1,2 @@
+pyinstaller>=6.0
+# tkinter is part of the standard library on Windows
