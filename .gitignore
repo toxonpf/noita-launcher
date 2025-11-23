@@ -20,3 +20,6 @@ Thumbs.db
 
 # User config (left in repo by default) - change if you prefer to ignore packaged config
 # config_gui.json
+
+# Игнорировать папку с сохранениями (локальные игровые сейвы)
+saves/
